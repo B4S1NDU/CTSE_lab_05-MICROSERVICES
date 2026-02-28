@@ -1,0 +1,12 @@
+{
+  "name": "item-service",
+  "version": "1.0.0",
+  "description": "Item Service for Microservices Lab",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
